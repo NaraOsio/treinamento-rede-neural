@@ -249,5 +249,30 @@ console.log("8 →", reconhecerDigito(entrada8));
 console.log("9 →", reconhecerDigito(entrada9));
 
 
-//const entradaUsuario = Array.from(document.querySelectorAll('.pixel'))//.map(p => p.classList.contains('active') ? 1 : 0);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//onst entradaUsuario = Array.from(document.querySelectorAll('.pixel'))//.map(p => p.classList.contains('active') ? 1 : 0);
 //console.log("O numero que o usuario pediu é: " + reconhecerDigito(entradaUsuario));
